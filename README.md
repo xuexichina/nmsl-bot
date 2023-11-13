@@ -30,3 +30,4 @@ Click the pop-up insult quotation to send it out automatically. If the sentence 
 1. Apply from BotFather to Telegram Bot account, remember token
 2. Modify API_TOKEN in docker-compose.yml as your token
 3. `docker-compose up -d`
+
