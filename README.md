@@ -1,4 +1,4 @@
-# Telegram NM$L Inline Bot
+# Telegram NM$L Bot
 
 ## 使用方式
 
@@ -15,10 +15,10 @@
 
 ``` shell script
 $ pip install -r requirements.txt
-$ API_TOKEN=<your_token_here> python -m chi_tg_inline_bot.__main__
+$ API_TOKEN=<your_token_here> python -m tg_inline_bot.__main__
 ```
 ## What is this
-The recent meme war between Thai and Chinese netizens, NMSL (Chinese: 你妈死了; pinyin: nǐmāsǐle; lit. 'Your mom is dead'), used as an insult. for this project is provides some insults Chinese sentences in telegram bot.
+NMSL (Chinese: 你妈死了; pinyin: nǐmāsǐle; lit. 'Your mom is dead'), used as an insult. for this project is provides some insults Chinese sentences in telegram bot.
 
 ## How to use
 
@@ -30,4 +30,3 @@ Click the pop-up insult quotation to send it out automatically. If the sentence 
 1. Apply from BotFather to Telegram Bot account, remember token
 2. Modify API_TOKEN in docker-compose.yml as your token
 3. `docker-compose up -d`
-# urban-train
